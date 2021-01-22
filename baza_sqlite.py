@@ -2,6 +2,7 @@ from tkinter import *
 #from PIL import ImageTK,Image
 import sqlite3
 
+# tutaj zmiana ostatnia do sprawdzenia - piatek 19:32
 
 root = Tk()
 root.title('tytul aplikacji')
