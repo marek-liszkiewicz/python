@@ -3,7 +3,7 @@ from tkinter import *
 import sqlite3
 
 # tutaj zmiana ostatnia do sprawdzenia - piatek 19:32
-
+# xxx
 root = Tk()
 root.title('tytul aplikacji')
 root.geometry("1024x1000")
