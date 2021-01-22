@@ -8,13 +8,6 @@ root.title('tytul aplikacji')
 root.geometry("1024x1000")
 
 
-
-
-
-
-
-
-
 # Create Submit Function For database
 def submit():
     conn = sqlite3.connect('marek.db')
