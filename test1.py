@@ -1,3 +1,6 @@
-a = range(6)
-for x in a:
-    print(x)
+def hello():
+    print("hello")
+
+hello()
+hello()
+hello()
