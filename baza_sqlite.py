@@ -5,6 +5,7 @@ import sqlite3
 # tutaj zmiana ostatnia do sprawdzenia - piatek 19:32
 # xxx
 # jeszcze jedna zmiana
+# tutuaj dodaje jeszcze jedną LOL
 
 root = Tk()
 root.title('tytul aplikacji')
